@@ -72,10 +72,6 @@ h1.centertext {
     text-align: center;
 }
 
-.nav {
-        position: fixed;
-            box-shadow: 0 4px 2px -2px rgba(0,0,0,.2);
-}
 
 .navbar-nav.navbar-center {
     position: absolute;
