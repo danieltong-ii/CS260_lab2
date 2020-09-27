@@ -124,6 +124,7 @@ h1.centertext {
 
   background-image: url("images/hero.png");
   background-size: cover;
+  background-attachment: fixed;
   color: white;
   margin-bottom: 0;
   padding-top: 80px;
