@@ -95,6 +95,7 @@ h1.centertext {
     {
         height: 550px;
         text-align: center;
+          background-size: cover;
 5}
     .hero-center{
         display: block;
